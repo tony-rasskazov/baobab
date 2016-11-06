@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/folder-cyan_open.png</file>
+        <file>img/folder-cyan.png</file>
+        <file>img/network_add_connection.png</file>
+        <file>img/delete_icon.png</file>
+        <file>img/eye 2.png</file>
+        <file>img/eye.png</file>
+        <file>img/table-cell-insert.ico</file>
+        <file>img/delete_icon2.png</file>
+        <file>img/Trash (Full)_16x16.png</file>
+        <file>img/folder-blue.png</file>
+        <file>img/folder-green.png</file>
+        <file>img/folder-grey.png</file>
+        <file>img/folder-red.png</file>
+        <file>img/folder-violet.png</file>
+        <file>img/folder-yellow_open.png</file>
+        <file>img/folder-orange_open.png</file>
+        <file>img/folder-orange.png</file>
+        <file>img/folder-violet_open.png</file>
+        <file>img/folder-blue_open.png</file>
+        <file>img/folder-green_open.png</file>
+        <file>img/folder-grey_open.png</file>
+        <file>img/folder-red_open.png</file>
+        <file>img/folder-yellow.png</file>
+        <file>img/code-variable.png</file>
+        <file>img/view-list-details.png</file>
+        <file>img/scrollbar_top_arrow.png</file>
+        <file>img/scrollbar_bottom_arrow.png</file>
+        <file>img/apply.png</file>
+        <file>img/more.png</file>
+        <file>img/document-new.png</file>
+        <file>img/document-open.png</file>
+        <file>img/document-save.png</file>
+        <file>img/edit-redo.png</file>
+        <file>img/edit-undo.png</file>
+        <file>img/document-save-as.png</file>
+        <file>img/code-variable 2.png</file>
+    </qresource>
+</RCC>

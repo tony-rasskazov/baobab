@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/baobab/Empty.qml</file>
+        <file>qml/baobab/main.qml</file>
+        <file>qml/baobab/MainForm.ui.qml</file>
+        <file>qml/baobab/ScrollBar.qml</file>
+        <file>qml/baobab/TreeItemsList.qml</file>
+        <file>qml/baobab/TreeItemView.qml</file>
+        <file>qml/baobab/DetailItemView.qml</file>
+        <file>qml/baobab/MindNodeView.qml</file>
+    </qresource>
+</RCC>
